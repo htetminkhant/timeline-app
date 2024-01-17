@@ -29,7 +29,7 @@ const ApploadingScreen = ({ navigation }) => {
       <ActivityIndicator animating={visible} color="#000" size={40} />
       <Text style={{ marginTop: 20 }}>
         {" "}
-        Go to naval fund management system . .. ...
+        Go to  fund management system . .. ...
       </Text>
     </View>
   );
